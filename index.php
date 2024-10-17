@@ -71,7 +71,7 @@
 	          <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">เมนูอาหาร</a>
               <div class="dropdown-menu" aria-labelledby="dropdown04">
-              	<a class="dropdown-item" href="shop.php">เมนูอาหารAA</a>
+              	<a class="dropdown-item" href="shop.php">เมนูอาหาร</a>
               	<a class="dropdown-item" href="table.php">โต๊ะอาหาร</a>
                 <a class="dropdown-item" href="basket.php">ตะกร้า</a>
                
