@@ -1,7 +1,7 @@
 <?php
 $host = "localhost" ;
     $usr = "root" ;
-    $pwd = "" ;
+    $pwd = "12345678" ;
     $db = "shoponline2";
     
     $conn = mysqli_connect($host ,$usr , $pwd) or die ("เชื่อมต่อฐานข้อมูลไม่ได้");
