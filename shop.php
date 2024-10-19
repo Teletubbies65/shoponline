@@ -1,14 +1,12 @@
 <?php
+	include("connectdb.php");
+?>
+<?php
 include_once("connectdb.php"); // เชื่อมต่อฐานข้อมูล
 session_start();
 $kw = $_POST['search'] ?? '';
 $categoryId = $_POST['category'] ?? '';
 ?>
-
-<?php
-	include("connectdb.php");
-?>
-
 <?php
 include("connectdb.php");
 

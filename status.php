@@ -1,4 +1,6 @@
-
+<?php
+	include("connectdb.php");
+?>
 <!doctype html>
 <html>
 <head>
